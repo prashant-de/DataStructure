@@ -2,10 +2,15 @@
 This is the repository where I will post practice questions of Data structure in c.
 
 ### Problem Statement:
-#### Given an integer array arr of size N and an integer K, rotate the array to the right by K steps.
- To rote the array by k steps: rotate.c
 
- #### Given an unsorted array of integers arr of size N, find the length of the longest consecutive sequence of numbers.
+---
+
+1. #### Given an integer array arr of size N and an integer K, rotate the array to the right by K steps.
+##### rotate.c
+
+---
+
+2. #### Given an unsorted array of integers arr of size N, find the length of the longest consecutive sequence of numbers.
  ##### longsequence.c
 
  To solve this problem in a simple way I have use the following sequence:
